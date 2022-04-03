@@ -1,0 +1,11 @@
+
+Sdelal esche 1 rezhim: 
+Pri vybore '1 - Forming the table' sformiruet fail s tablitsey rezultatov.
+('Result_sel_sort.txt' ili 'Result_quick_sort.txt').
+
+Pri vybore '0 - single mode' sformiruet fail 'f_n_up_quick_sort.txt' ili 'f_n_up_select_sort.txt'
+ s otsortirovannoy posledovatelnost'u (bez formirovania tablitsy).
+
+Fail 'Double-Table results.txt' - svodniy fail s 2 tablitsami rezultatov - delal vruchnuy. 
+
+
